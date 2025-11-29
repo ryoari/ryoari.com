@@ -5,8 +5,7 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "prebuild": "copy src\\data\\identity.json public\\me.json",
-    "start": "next start",
+    "prebuild": "cpy src/data/identity.json public/ --rename=me.json",
     "lint": "eslint"
   },
   "dependencies": {
@@ -18,6 +17,7 @@
     "@types/node": "^20",
     "@types/react": "^19",
     "@types/react-dom": "^19",
+    "cpy-cli": "^6.0.0",
     "eslint": "^9",
     "eslint-config-next": "16.0.5",
     "typescript": "^5"
