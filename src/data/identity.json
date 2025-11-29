@@ -1,0 +1,34 @@
+{
+    "name": "Ryo Ari",
+    "tagline": "Building the future of digital identity.",
+    "bio": "I am a systems architect and developer focused on creating future-proof, agent-ready digital experiences. This website serves as the canonical source of truth for my online presence.",
+    "email": "ay4xqo3mu@mozmail.com",
+    "website": "https://ryoari.com",
+    "socials": [
+        {
+            "platform": "GitHub",
+            "url": "https://github.com/ryoari",
+            "username": "ryoari"
+        },
+        {
+            "platform": "Twitter",
+            "url": "https://twitter.com/radiantsnake",
+            "username": "@radiantsnake"
+        }
+    ],
+    "projects": [
+        {
+            "name": "Future-Proof Identity",
+            "description": "A personal website architecture designed for both humans and AI agents.",
+            "url": "https://ryoari.com",
+            "tags": [
+                "Next.js",
+                "JSON-LD",
+                "Agentic Web"
+            ]
+        }
+    ],
+    "verification": {
+        "pgpPublicKey": ""
+    }
+}
