@@ -18,6 +18,16 @@
     ],
     "projects": [
         {
+            "name": "Ai Yggdrasil",
+            "description": "Mapping out the current Ai research in form of a hierarchial tree.",
+            "url": "https://github.com/ryoari/ai-yggdrasil",
+            "tags": [
+                "DAG",
+                "Python",
+                "arXiv"
+            ]
+        },
+        {
             "name": "Future-Proof Identity",
             "description": "A personal website architecture designed for both humans and AI agents.",
             "url": "https://ryoari.com",
