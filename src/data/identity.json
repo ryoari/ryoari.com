@@ -1,7 +1,7 @@
 {
     "name": "Rajat Roy aka Ryo Ari",
-    "tagline": "Working on ideas.",
-    "bio": "I am a systems architect and developer focused on creating future-proof, agent-ready digital experiences. This website serves as the canonical source of truth for my online presence.",
+    "tagline": "Working on hypothesizes.",
+    "bio": "I am a systems architect and developer focused on researching A-life. This website serves as the canonical source of truth for my online presence.",
     "email": "ay4xqo3mu@mozmail.com",
     "website": "https://ryoari.com",
     "socials": [
@@ -19,7 +19,7 @@
     "projects": [
         {
             "name": "Ai Yggdrasil",
-            "description": "Mapping out the current Ai research in form of a hierarchial tree.",
+            "description": "Mapping out Ai research in form of a hierarchial tree.",
             "url": "https://github.com/ryoari/ai-yggdrasil",
             "tags": [
                 "DAG",
