@@ -18,9 +18,9 @@
     ],
     "projects": [
         {
-            "name": "Ai Yggdrasil",
+            "name": "Noesis",
             "description": "Mapping out Ai research in form of a hierarchial tree.",
-            "url": "https://github.com/ryoari/ai-yggdrasil",
+            "url": "https://github.com/ryoari/Noesis",
             "tags": [
                 "DAG",
                 "Python",
