@@ -1,44 +1,28 @@
 {
     "name": "Rajat Roy aka Ryo Ari",
-    "tagline": "Working on hypothesizes.",
-    "bio": "I am a systems architect and developer focused on researching A-life. This website serves as the canonical source of truth for my online presence.",
+    "tagline": "Working on hypotheses.",
+    "epigraph": "The interesting systems are the ones that keep going after you stop watching.",
+    "bio": "This site is the canonical source of truth for my presence online. I build at the seam between hardware and learning systems, and I care about work that is reproducible, verifiable, and shipped in public rather than described.",
+    "now": "GSoC 2026 at AOSSIE, building deterministic, cryptographically verifiable LLM training. Incoming MCS, University of Sydney, with the Complex Systems group.",
     "email": "ay4xqo3mu@mozmail.com",
     "website": "https://ryoari.com",
     "socials": [
-        {
-            "platform": "GitHub",
-            "url": "https://github.com/ryoari",
-            "username": "ryoari"
-        },
-        {
-            "platform": "Twitter",
-            "url": "https://twitter.com/radiantsnake",
-            "username": "@radiantsnake"
-        }
+        { "platform": "GitHub", "url": "https://github.com/ryoari", "username": "ryoari" },
+        { "platform": "Twitter", "url": "https://twitter.com/radiantsnake", "username": "@radiantsnake" }
     ],
     "projects": [
         {
             "name": "Noesis",
-            "description": "Mapping out Ai research in form of a hierarchial tree.",
+            "description": "Mapping AI research as a hierarchical tree.",
             "url": "https://github.com/ryoari/Noesis",
-            "tags": [
-                "DAG",
-                "Python",
-                "arXiv"
-            ]
+            "tags": ["DAG", "Python", "arXiv"]
         },
         {
             "name": "Future-Proof Identity",
-            "description": "A personal website architecture designed for both humans and AI agents.",
+            "description": "A personal site architecture for humans and AI agents.",
             "url": "https://ryoari.com",
-            "tags": [
-                "Next.js",
-                "JSON-LD",
-                "Agentic Web"
-            ]
+            "tags": ["Next.js", "JSON-LD", "Agentic Web"]
         }
     ],
-    "verification": {
-        "pgpPublicKey": ""
-    }
+    "verification": { "pgpPublicKey": "" }
 }
