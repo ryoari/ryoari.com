@@ -13,7 +13,7 @@
     "projects": [
         {
             "name": "OpenVerifiableLLM",
-            "description": "Deterministic, independently verifiable LLM training — reproduce a model bit-for-bit, or cryptographically detect that it was altered.",
+            "description": "Deterministic, independently verifiable LLM training ~ reproduce a model bit-for-bit, or cryptographically detect that it was altered.",
             "url": "https://github.com/AOSSIE-Org/OpenVerifiableLLM",
             "tags": ["PyTorch", "safetensors", "Sigstore"]
         }
