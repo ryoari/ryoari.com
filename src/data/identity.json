@@ -12,16 +12,10 @@
     ],
     "projects": [
         {
-            "name": "Noesis",
-            "description": "Mapping AI research as a hierarchical tree.",
-            "url": "https://github.com/ryoari/Noesis",
-            "tags": ["DAG", "Python", "arXiv"]
-        },
-        {
-            "name": "Future-Proof Identity",
-            "description": "A personal site architecture for humans and AI agents.",
-            "url": "https://ryoari.com",
-            "tags": ["Next.js", "JSON-LD", "Agentic Web"]
+            "name": "OpenVerifiableLLM",
+            "description": "Deterministic, independently verifiable LLM training — reproduce a model bit-for-bit, or cryptographically detect that it was altered.",
+            "url": "https://github.com/AOSSIE-Org/OpenVerifiableLLM",
+            "tags": ["PyTorch", "safetensors", "Sigstore"]
         }
     ],
     "verification": { "pgpPublicKey": "" }
